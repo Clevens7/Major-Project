@@ -1,7 +1,7 @@
 Authors: Catherine Salkey & Clevens Denton
 Date Created: April 2, 2025
 Course: ITT 103
-Git Hub Public Code to URL: 
+Git Hub Public Code to URL: https://github.com/Clevens7/Major-Project/blob/main/Denton.Salkey-POS_program-ITT103-SP2025.py
 
 
 The purpose of the Better Buy POS Program:
